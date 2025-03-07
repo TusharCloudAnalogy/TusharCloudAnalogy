@@ -1,4 +1,4 @@
-# 💻 Tushar Saini | Assistant Lead Full Stack Developer @  <img src="https://d1j8x7e41rkduz.cloudfront.net/wp-content/uploads/2021/09/17174045/Cloudanalogy.png" alt="CloudAnalogy" height="30"/>
+# 💻 Tushar Saini | Assistant Lead Full Stack Developer @  CloudAnalogy <a href="https://cloudanalogy.com" target="_blank"><img src="https://d1j8x7e41rkduz.cloudfront.net/wp-content/uploads/2021/09/17174045/Cloudanalogy.png" alt="CloudAnalogy" height="30"/></a>
 
 🚀 **5+ Years Experience** | **Frontend & Backend Developer**  
 
