@@ -71,7 +71,7 @@
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharCloudAnalogy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCloudAnalogy&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=TusharCloudAnalogy&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?username=TusharCloudAnalogy&theme=radical)  
 
 ---
 
