@@ -1,4 +1,4 @@
-# 💻 Tushar Saini | Assistant Lead Full Stack Developer @  <img src="https://cloudanalogy.com/wp-content/uploads/2020/07/cropped-cropped-CA_logo-120-x-80_80fa8a97375e87977bca0ff88f5c6e9a.png" alt="CloudAnalogy" height="30"/>
+# 💻 Tushar Saini | Assistant Lead Full Stack Developer @  <img src="https://d1j8x7e41rkduz.cloudfront.net/wp-content/uploads/2021/09/17174045/Cloudanalogy.png" alt="CloudAnalogy" height="30"/>
 
 🚀 **5+ Years Experience** | **Frontend & Backend Developer**  
 
@@ -37,36 +37,6 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-005571?style=for-the-badge&logo=ci-cd&logoColor=white)  
 
 ---
-
-## 📂 Projects  
-
-### ✨ **Cosmetic Reports**  
-- **Tech Stack:** Next.js 14, TypeScript, ShadCN, TailwindCSS, ReduxToolkit, NestJS, MSSQL  
-- **Role:** Full-Stack Lead  
-- **Summary:** Migrated a legacy C# reporting app into a modern, faster full-stack standalone application.  
-
-### 🔐 **Irys Insurance CRM**  
-- **Tech Stack:** React, TypeScript, AntD, ReduxToolkit, .NET, PostgreSQL  
-- **Role:** Frontend Lead  
-- **Summary:** Developed a management tool for insurance agents and brokers to handle client interactions.  
-
-### 👨‍👩‍👧 **Support Pay**  
-- **Tech Stack:** Next.js, TypeScript, AntD, Zustand, Hasura, GraphQL, Node.js, Express, Docker  
-- **Role:** Full-Stack Lead  
-- **Summary:** Designed a web platform to manage child support and alimony payments.  
-
-### 📊 **CA Portal**  
-- **Tech Stack:** Next.js, TypeScript, AntD, React Query, Node.js, Hasura, GraphQL  
-- **Role:** Frontend Developer  
-- **Summary:** Built an HR management tool with modules for attendance tracking and employee management.  
-
-### 🏏 **Cric Fizz**  
-- **Tech Stack:** React, TypeScript, Redux, Node.js, MongoDB  
-- **Role:** Frontend Developer  
-- **Summary:** Developed a cricket score update app with live match details and ball-by-ball commentary.  
-
----
-
 ## 📈 GitHub Stats  
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharCloudAnalogy&show_icons=true&theme=radical)  
